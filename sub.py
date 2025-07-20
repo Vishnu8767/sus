@@ -1,8 +1,5 @@
 a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
-
-
-
+b = int(input("Enter senumber: "))
 
 sum_result = a + b
 sum_result = a - b
