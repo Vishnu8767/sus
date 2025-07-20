@@ -1,8 +1,17 @@
-
+<<<<<<< HEAD
 a = int(input("Enter first number: "))
 b = int(input("Enter senumber: "))
+=======
+a = int(input("Enterfirst number: "))
+b = int(input("Ente snumber: "))
+
+
+
+>>>>>>> s1
+
 sum_result = a + b
 sum_result = a - b
 print("The sum is:", sum_result)
 print("The sub is:", sub_result)
-
+@@@@
+^^&&*
